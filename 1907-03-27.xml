@@ -7,12 +7,12 @@
             <titleStmt>
                 <title level="m" type="main">Digital Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor><!-- Greyson Porter--></editor>
+                <editor>Greyson Porter</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2017-01-09">January 9, 2017<!-- April 25,2018 --></date>
+                    <date when="2018-04-24">April 25,2018</date>
                     <gloss>1</gloss>
                 </edition>
             </editionStmt>
@@ -3395,13 +3395,13 @@
                                 Berlin <measure>6</measure>
                             </p>
                      </div>
-                     <div type="item" xml:id="deg-el-etcl1">
+                     <div type="item" xml:id="deg-el-etcl01">
                          <head>EASTERN TELEGRAPH CO. LTD.</head>
                          <p>AVERAGE TIME occupied in transmission of Egyptian telegrams from England to
                              Alexandria on <date when="1905-07-11">Tuesday, 11th July, 1905</date>. </p>
                          <p>OUTWARDS.</p>
                          <p>Between the hours of 10 a.m. and 6 p.m. (Cairo time)</p>
-                         <table rows="6" cols="3" xml:id="deg-ta-etcl1">
+                         <table rows="6" cols="3" xml:id="deg-ta-etcl01">
                              <row role="label">
                                  <cell rows="2">FROM</cell>
                                  <cell cols="2">MESSAGES HANDED IN AT</cell>

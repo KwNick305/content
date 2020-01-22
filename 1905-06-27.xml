@@ -81,7 +81,7 @@
                     <p>Alexandria. Cairo. Port-Said and Khartoum.</p>
                     <p>1080 31-5-905</p>
                 </div>
-                <div type="advert" xml:id="deg-ad-jbc01">
+                <div type="advert" xml:id="deg-ad-caf01">
                     <head>John B. Caffari's "Economical Stores"</head>
                     <p>Cairo and Alexandria</p>
                     <p>The Perfection of Quality and Value.</p>
@@ -473,8 +473,8 @@
                 <div type="item">
                     <head>THE REWARD OF MERIT. TRAINING-SHIP LOST. TWENTY TWO CADETS DROWNED.</head>
                     <p>London, June 26. The English S.S. "Ancona" collided with a Danish mercantile
-                        training ship near Copen- hagen. The latter foundered, and 22 ap prentices
-                        were drowned , 37 were saved. (R )</p>
+                        training ship near Copen- hagen. The latter foundered, and <measure>22</measure> ap prentices
+                        were drowned , <measure>37</measure> were saved. (R )</p>
                 </div>
                 <div type="item">
                     <p>Suspicious Death.—A native died on Sun- day morning in the Haret el Barekdar,
@@ -719,7 +719,7 @@
             <pb n="4"/>
             <div type="page" n="4">
                 <p>THI 10TPTIAN GAZITT1, TUBS.) AY, JUNE 27, 1905. </p>
-            </div>
+           
 
             <div type="item">
                 <p>CHRONIQUE JCDICUIKE TRIBUNAL SOMMAlRB MIXTE DALBXANDR1E U> LOVER* StfXMLS
@@ -1095,11 +1095,11 @@
                     14.60 15.50 25 1. 5 2.27 0.45 0.49 1.10 1. 7 1.59 1.89 1.17 9.19 96.26 86.18
                     47.19 46.72 11. 2 13. 3 14.50 15.50 26 0.26 2.76 0.47 o.to 1.10 1* 7 1.65 1.90
                     1.90 2.19 — 94.61 — 86.18 — 47.19 — 46.7* 11. 1 18. 8 14.50 15SQ</p>
-            </div>
+            </div></div>
             <pb n="5"/>
             <div type="page" n="5">
                 <head>TUB BQYPTIAN GAZBTT1, TUESDAY, JTOE 27, 1205.</head>
-                <p>SECRETS OF ANTIQUITY. I-KOF. PETRIE INTERVIEWED. BRITISH SCHOOL OF ARCHAEOLOGY
+               <div type="item"> <p>SECRETS OF ANTIQUITY. I-KOF. PETRIE INTERVIEWED. BRITISH SCHOOL OF ARCHAEOLOGY
                     FOR EGYPT.</p>
                 <p>Professor Flinders Potrio has revoalod tho hi-tory of “prehistoric" times, and
                     made the word look ridioulous. Wo now know what was happening in the world eight
@@ -1306,7 +1306,7 @@
                     students of German colonial polioy, and re- presented the determination of the
                     German Government to establish itself territorially in the east, as it had
                     already done in the west, of the African centre ant Wissmann organised a native
-                    force of 1,000 men, with Germau officers and r on-commissioned officers, and,
+                    force of <measure>1,000</measure> men, with Germau officers and r on-commissioned officers, and,
                     after a campaign which lasted over a year, aooceeded in quelling the
                     insurrection of the East African tribes, lu 1890 tho international position and
                     tho frontiers of tho new territory were regulated by an Anglo German agreement.
@@ -1400,9 +1400,9 @@
                     lie might have added—what is well known to the masters and orews of trading
                     ships in the Padfio Island#—that their Utopia is a by-word and reproach from one
                     end of the Pacifio to the other. (“Pall Mall Gosette.”</p>
-            </div>
+            </div></div>
             <pb n="6"/>
-            <div type="page" n="6">
+            <div type="page" n="6"><div type="item">
                 <p>Gthi aarrma 3Atam% tun a day, juns 27, tioe. REUTERS TELH0RAH CLOSING RSPORja
                     LrvapooL, June 26,42.46 prfm oaloa of the day.............. of which Egyptian
                     ... American (new crop) MsixaSpot percental/........... — Amor, fti«um
@@ -1580,7 +1580,7 @@
                     ALEXANDRIA Rae Constantinople Uaison A. N. Abet CAIRO Hon Im Bne Nenve T ANTA
                     Sharia El Alail. CAIRO SEWAGE TRANSPORT C„ Ld. Chief Offloe : Shari* K*«r-el-KU,
                     GAIKO. X*ar tha National Bask et K|7ri-_ ENORAIS NATUREL8 COMPLBTfl</p>
-            </div>
+            </div></div>
         </body>
     </text>
 </TEI>
